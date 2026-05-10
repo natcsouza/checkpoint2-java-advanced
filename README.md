@@ -78,6 +78,19 @@ spring.jpa.show-sql=true
 
 ---
 
+# Operações CRUD da API
+
+Foram realizados testes completos da API REST utilizando o Postman, contemplando todas as operações básicas de CRUD:
+
+- CREATE → Cadastro de brinquedos (POST)
+- READ → Consulta de brinquedos (GET)
+- UPDATE → Atualização de brinquedos (PUT)
+- DELETE → Exclusão de brinquedos (DELETE)
+
+Todos os testes foram executados utilizando o endereço localhost na porta 8080, com persistência dos dados no banco Oracle SQL Developer.
+
+---
+
 # Endpoints da API
 
 ## POST - Cadastrar brinquedo
