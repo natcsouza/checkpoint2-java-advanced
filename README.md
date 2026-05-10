@@ -97,6 +97,7 @@ Base URL utilizada nos testes:
 http://localhost:8080/brinquedos
 ```
 
+
 Observação:
 
 Durante os testes no Postman foram utilizados endpoints diferentes conforme a operação realizada no CRUD.
@@ -123,7 +124,6 @@ Utilizado para:
 Onde o número final representa o ID do brinquedo cadastrado no banco de dados Oracle.
 ```
 
----
 
 # Endpoints da API
 
