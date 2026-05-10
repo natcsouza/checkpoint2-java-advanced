@@ -91,6 +91,40 @@ Todos os testes foram executados utilizando o endereço localhost na porta 8080,
 
 ---
 
+Base URL utilizada nos testes:
+
+```http
+http://localhost:8080/brinquedos
+```
+
+Observação:
+
+Durante os testes no Postman foram utilizados endpoints diferentes conforme a operação realizada no CRUD.
+
+Exemplos:
+
+```http
+http://localhost:8080/brinquedos
+```
+
+Utilizado para:
+- POST
+- GET geral
+
+```http
+http://localhost:8080/brinquedos/1
+```
+
+Utilizado para:
+- GET por ID
+- PUT
+- DELETE
+
+Onde o número final representa o ID do brinquedo cadastrado no banco de dados Oracle.
+```
+
+---
+
 # Endpoints da API
 
 ## POST - Cadastrar brinquedo
