@@ -1,0 +1,50 @@
+====================================================
+        CHECKPOINT 2 - JAVA ADVANCED
+====================================================
+
+Turma: 2TDSR - FIAP
+Projeto: API REST de Brinquedos
+
+----------------------------------------------------
+INTEGRANTES
+----------------------------------------------------
+
+Nome: Natalia Cristina de Souza
+RM: 564099
+
+Nome: Nickolas Davi Silva Souza
+RM: 564105
+
+Nome: Samara de Oliveira Vilela
+RM: 566133
+
+----------------------------------------------------
+TECNOLOGIAS UTILIZADAS
+----------------------------------------------------
+
+- Java 21
+- Spring Boot
+- Spring Web
+- Spring Data JPA
+- Oracle Database
+- Maven
+- Postman
+- IntelliJ IDEA
+
+----------------------------------------------------
+FUNCIONALIDADES IMPLEMENTADAS
+----------------------------------------------------
+
+[OK] Cadastro de brinquedos (POST)
+[OK] Listagem de brinquedos (GET)
+[OK] Atualização de brinquedos (PUT)
+[OK] Exclusão de brinquedos (DELETE)
+
+----------------------------------------------------
+OBSERVAÇÕES
+----------------------------------------------------
+
+Projeto desenvolvido utilizando API REST integrada
+ao banco Oracle com testes realizados via Postman.
+
+====================================================
