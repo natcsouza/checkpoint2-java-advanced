@@ -124,7 +124,6 @@ Utilizado para:
 Onde o número final representa o ID do brinquedo cadastrado no banco de dados Oracle.
 ```
 
-
 # Endpoints da API
 
 ## POST - Cadastrar brinquedo
