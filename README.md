@@ -68,8 +68,8 @@ Arquivo `application.properties`:
 
 ```properties
 spring.datasource.url=jdbc:oracle:thin:@oracle.fiap.com.br:1521:ORCL
-spring.datasource.username=SEU_USUARIO
-spring.datasource.password=SUA_SENHA
+spring.datasource.username=rm564099
+spring.datasource.password=140599
 spring.datasource.driver-class-name=oracle.jdbc.OracleDriver
 
 spring.jpa.hibernate.ddl-auto=update
@@ -217,5 +217,8 @@ Projeto criado utilizando Spring Initializr com dependências Spring Boot, Sprin
 Link do projeto:
 
 ```text
-COLOCAR_LINK_DO_GITHUB_AQUI
+https://github.com/natcsouza/checkpoint2-java-advanced
 ```
+
+
+
